@@ -1,75 +1,79 @@
-# 👋 Hi, I'm Narendira
+# Hi, I'm Narendira 👋
 
-💻 **Full Stack Developer** | 🌐 Passionate about Building Scalable Web Applications  
-📍 Chennai, India | 🚀 Open to Global Opportunities
+**Full Stack Engineer** · React · TypeScript · Java · Spring Boot · Cloud  
+📍 Chennai, India &nbsp;|&nbsp; 🎯 Seeking roles in **Germany / EU**
 
 ---
 
 ## 🚀 About Me
-- 🔹 Full Stack Developer with **3+ years of experience**
-- 🔹 Expertise in designing and developing scalable enterprise applications
-- 🔹 Strong proficiency in **React, Angular, .NET, and SQL Server**
-- 🔹 Passionate about clean code, performance optimization, and modern UI/UX
-- 🔹 Experienced in developing RESTful APIs and micro-frontend architectures
-- 🔹 Actively seeking opportunities in **Singapore, UAE, and remote roles**
+
+- 3.5 years building enterprise-grade products at **[Gigamon](https://www.gigamon.com)** — a US-listed network observability company
+- Specialize in **React/TypeScript micro-frontend architecture** and **Java Spring Boot microservices**
+- Shipped features end-to-end: Figma → production, including CI/CD, auth flows, and system design
+- Led a team of 6 engineers to deliver a new enterprise analytics module on schedule
+- Multi-cloud exposure across **AWS, Azure, and GCP** in production environments
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Frontend
-- React.js
-- Angular
-- JavaScript (ES6+)
-- TypeScript
-- HTML5 & CSS3
-- Bootstrap & Tailwind CSS
-
-### ⚙️ Backend
-- .NET (C#)
-- ASP.NET Core
-- Web API
-- MVC
-
-### 🗄️ Databases
-- Microsoft SQL Server
-- MongoDB
-
-### 🔧 Tools & Technologies
-- Git & GitHub
-- Docker (Basic Knowledge)
-- Postman
-- VS Code & Visual Studio
-- Figma
-- GitHub Pages
-
----
----
-
-## 🌐 Portfolio & Resume
-- 🌍 **Portfolio:** https://naren33611.github.io/narendira-portfolio
-- 📄 **Resume:** https://naren33611.github.io/resume.pdf
+| Layer | Technologies |
+|-------|-------------|
+| **Frontend** | React.js, TypeScript, Angular, JavaScript (ES6+), HTML5, CSS3 |
+| **State** | Redux, Zustand, React Query, Recoil |
+| **UI** | Tailwind CSS, Material UI, Ant Design, Shadcn/UI |
+| **Backend** | Java, Spring Boot, MongoDB, REST, GraphQL, Microservices |
+| **Auth** | JWT, OAuth 2.0 |
+| **Cloud** | AWS (EC2, S3, Lambda) · Azure (App Service, AKS) · GCP (Cloud Run, GCS) |
+| **Tooling** | Webpack, Vite, Docker, Jenkins, GitHub Actions, Storybook |
+| **Testing** | Jest, Cypress (Unit, Integration, E2E) |
 
 ---
 
-## 🏆 Key Highlights
-- 🚀 Built scalable full-stack applications using modern technologies
-- 📊 Developed micro-frontend solutions improving deployment efficiency
-- ⚡ Optimized application performance and database queries
-- 🎯 Strong understanding of object-oriented programming and design principles
+## 📌 Featured Projects
+
+### 🔷 [Micro-Frontend Analytics Dashboard](https://github.com/naren33611/mfe-analytics-dashboard)
+> React · Angular · Spring Boot · MongoDB · Docker
+
+Scalable enterprise analytics platform using micro-frontend architecture.
+- Independent deployments per team via Module Federation
+- Spring Boot microservices backend with MongoDB
+- Reduced feature release cycles by **40%**
 
 ---
 
-## 📫 Connect With Me
-- 📧 **Email:** your-email@example.com
-- 💼 **LinkedIn:** https://linkedin.com/in/your-linkedin-profile
-- 💻 **GitHub:** https://github.com/naren33611
+### 🔷 [Workflow Visualization Platform](https://github.com/naren33611/workflow-viz-platform)
+> React Flow · Spring Boot · Zustand · REST APIs
+
+Interactive network workflow visualization tool.
+- Optimized rendering with lazy loading + API caching — **30% faster**
+- Zustand for lightweight, efficient state management
+- RESTful backend with Spring Boot
 
 ---
 
-## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=naren33611&color=blue&style=flat-square)
+### 🔷 [UI Component Library](https://github.com/naren33611/react-component-library)
+> React · TypeScript · Tailwind CSS · Storybook
+
+Production-ready shared component library.
+- Full Storybook documentation with live playground
+- Typed with TypeScript, styled with Tailwind CSS
+- Adopted by multiple teams; improved UI consistency across products
 
 ---
 
-⭐ **"Turning ideas into scalable and impactful digital solutions."**
+## 🏅 Certifications
+
+- ☁️ **AWS Certified Cloud Practitioner** — Amazon Web Services *(Active)*
+- ☁️ **Microsoft Azure Fundamentals AZ-900** — Microsoft *(Active)*
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-naren3361-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/naren3361)
+[![Email](https://img.shields.io/badge/Email-naren3361@gmail.com-D14836?style=flat&logo=gmail)](mailto:naren3361@gmail.com)
+
+---
+
+> *"Ship fast. Ship right. Ship together."*
